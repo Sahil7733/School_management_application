@@ -19,3 +19,5 @@ To get a local copy up and running follow these simple steps:
 
    ```sh
    git clone https://github.com/Sahil7733/School_management_app.git
+
+
